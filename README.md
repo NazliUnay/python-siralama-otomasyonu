@@ -13,13 +13,18 @@ Oluşturulan liste ekranda gösterilir ve ardından 6 farklı algoritma ile sır
 Kullanıcı dostu arayüzü ve tam ekran modu ile eğitim amaçlı, algoritmaların çalışma mantığını deneyimlemek için uygundur.
 
 ---
-
 ## Özellikler
 
 - **Liste oluşturma:**
-  - Dosyadan yükleme
   - Rastgele sayı listesi oluşturma
+  - Dosyadan yükleme
+    
+    ![Sıralama Ekranı](https://s5.ezgif.com/tmp/ezgif-5cfe7a11ab02ea.gif)
+    
   - Kullanıcıdan doğrudan sayı girişi (virgülle ayrılmış)
+    
+    ![Sıralama Ekranı](https://s5.ezgif.com/tmp/ezgif-5a5ad9e3d5e7f3.gif)
+
 
 - **Sıralama algoritmaları:**
   - Insertion Sort
