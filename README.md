@@ -13,6 +13,14 @@ Oluşturulan liste ekranda gösterilir ve ardından 6 farklı algoritma ile sır
 Kullanıcı dostu arayüzü ve tam ekran modu ile eğitim amaçlı, algoritmaların çalışma mantığını deneyimlemek için uygundur.
 
 ---
+## 📺 Proje Videosu
+
+Python ve Tkinter kullanarak geliştirdiğim **Sıralama Algoritmaları Görselleştirme** projesinin videosunu aşağıdan izleyebilirsiniz:
+
+[YouTube Video Linki](https://youtu.be/zeLCnOFVl7k)
+
+---
+
 ## Özellikler
 
 - **Liste oluşturma:**
