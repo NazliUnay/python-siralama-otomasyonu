@@ -64,7 +64,7 @@ Sayıların sayısını sayarak sıralar. Sayı aralığı küçükse çok hızl
 1. Uygulama açıldığında ana menü görüntülenir.
 
 2. **Liste oluşturma seçenekleri**:
-   - **Dosyadan Oku**: Sayıların bulunduğu metin dosyasını seçin. Dosya satır satır okunur.
+   - **Dosyadan Oku**: Sayıların bulunduğu metin dosyasını seçin.
    - **Rastgele Sayılar Oluştur**
    - **Kullanıcı Girişi**: Virgülle ayrılmış sayıları yazın (örn: 5,12,9,1).
 
