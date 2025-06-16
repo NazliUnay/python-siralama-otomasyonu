@@ -57,8 +57,6 @@ def ana_menu():
     Label(alt_frame, text="© 2025 Şerife Nazlı Ünay | Sıralama Otomasyonu v1.0",
           font=("Segoe UI", 10), bg="#e2e8f0", fg="#475569").pack()
 
-    # İstersen başka bilgilendirme veya link de eklenebilir
-
     form.eval('tk::PlaceWindow . center')
 
 def aralik_kontrol(liste, alt=1, ust=70):
