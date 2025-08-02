@@ -1,6 +1,6 @@
 
 # Sıralama Otomasyonu — Python & Tkinter Uygulaması
-
+Ders: 2.Sınıf Veri Yapıları
 Python dili ve Tkinter GUI kütüphanesi kullanılarak geliştirilmiş, farklı yöntemlerle sayı listeleri oluşturup çeşitli sıralama algoritmalarıyla sıralamayı sağlayan masaüstü uygulamasıdır.
 
 ---
@@ -26,13 +26,7 @@ Python ve Tkinter kullanarak geliştirdiğim **Sıralama Algoritmaları Görsell
 - **Liste oluşturma:**
   - Rastgele sayı listesi oluşturma
   - Dosyadan yükleme
-    
-    ![Sıralama Ekranı](https://s5.ezgif.com/tmp/ezgif-5cfe7a11ab02ea.gif)
-    
   - Kullanıcıdan doğrudan sayı girişi (virgülle ayrılmış)
-    
-    ![Sıralama Ekranı](https://s5.ezgif.com/tmp/ezgif-5a5ad9e3d5e7f3.gif)
-
 
 - **Sıralama algoritmaları:**
   - Insertion Sort
